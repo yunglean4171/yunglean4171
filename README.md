@@ -8,7 +8,7 @@ yungleaninc@gmail.com | yunglean_#4171
 
 <br/>
 
-Beginner software enginner, mostly backend, currently earning python.
+Beginner software enginner, mostly backend, currently learning python.
 
 ## Github Stats
 
