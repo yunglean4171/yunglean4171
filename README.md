@@ -12,6 +12,8 @@ Beginner software enginner, mostly backend, currently learning python.
 
 Programming languages I have experience with:
 <br><img align="left" alt="Lua" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/lua/lua-plain.svg"/>
+<img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg"/>
+
 
 ## Github Stats
 
