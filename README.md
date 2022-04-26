@@ -3,7 +3,7 @@
 <h2>Hello, there. I am yunglean.</h2>
 
 yungleaninc@gmail.com | yunglean_#4171 |
-https://discord.gg/pMRFk4QZyj
+https://discord.gg/soon
 </div>
 
 <br/>
