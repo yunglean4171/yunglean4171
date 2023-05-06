@@ -2,8 +2,7 @@
 
 <h2>Hello, there. I am yunglean.</h2>
 
-yungleaninc@gmail.com | yunglean_#4171 |
-https://discord.gg/ATcuD9eXqq
+yungleaninc@gmail.com | yunglean_#4171 | http://ylean.xyz/
 </div>
 
 <br/>
