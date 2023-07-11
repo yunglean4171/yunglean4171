@@ -1,15 +1,15 @@
 <div align="center">
 
-<h2>Hello, there. I am yunglean.</h2>
+<h1>Hello, there. I am yunglean.</h1>
 
 yungleaninc@gmail.com | yunglean_#4171 | http://ylean.xyz/
 </div>
 
 <br/>
+<div align="center">
+<h2>Intermediate software enginner. Computer science student in Poland.</h2>
 
-Intermediate software enginner. Computer science student in Poland.
-
-Programming languages and technologies I have the most experience with:
+<h2>Programming languages and technologies I have the most experience with:</h2>
 <br><img align="left" alt="Lua" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/lua/lua-plain.svg"/>
 <img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="MySQL" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
@@ -17,6 +17,7 @@ Programming languages and technologies I have the most experience with:
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg"/><br>
 
 <img src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/06eafd3aa63e8d0d41ed08717d3905ef064e460b/github-contribution-grid-snake.svg"/>
+</div>
 
 ## Github Stats
 
