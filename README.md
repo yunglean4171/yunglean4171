@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hello there. I am yunglean.</h1>
   
-  yungleaninc@gmail.com | yunglean_#4171 | http://ylean.xyz/
+  yungleaninc@gmail.com | yunglean_#4171
 
   <br/>
 
